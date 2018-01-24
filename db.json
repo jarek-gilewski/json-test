@@ -1,1 +1,27 @@
 
+{
+    "items": [
+      {
+        "nextpage" : 2,
+        "total" : 3,
+        "results": [
+          {
+            "title": "Lalka sss",
+            "url": "/components/amp-carousel/"
+          },
+          {
+            "title": "Żelasko",
+            "url": "/components/amp-img/"
+          },
+          {
+            "title": "Samochód",
+            "url": "/components/amp-ad/"
+          },
+          {
+            "title": "Lodówka",
+            "url": "/components/amp-accordion/"
+          }
+        ]
+      }
+    ]
+}
